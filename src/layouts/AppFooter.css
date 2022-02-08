@@ -1,0 +1,8 @@
+.app-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background: whitesmoke;
+    margin-top: 50px;
+}

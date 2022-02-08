@@ -1,0 +1,29 @@
+.nav-items {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+.nav-link:link {
+    color: black;
+}
+
+.nav-link:hover {
+    color: white;
+    background-color: rgb(0, 140, 165);
+}
+
+.nav-link:active {
+    color: green;
+}
