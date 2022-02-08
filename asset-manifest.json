@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simplenewsapp/static/css/main.de0690ee.chunk.css",
+    "main.js": "/simplenewsapp/static/js/main.fd2194f9.chunk.js",
+    "main.js.map": "/simplenewsapp/static/js/main.fd2194f9.chunk.js.map",
+    "runtime-main.js": "/simplenewsapp/static/js/runtime-main.f9ce003e.js",
+    "runtime-main.js.map": "/simplenewsapp/static/js/runtime-main.f9ce003e.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/simplenewsapp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9d3f2a12.chunk.js": "/simplenewsapp/static/js/2.9d3f2a12.chunk.js",
+    "static/js/2.9d3f2a12.chunk.js.map": "/simplenewsapp/static/js/2.9d3f2a12.chunk.js.map",
+    "index.html": "/simplenewsapp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/simplenewsapp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.de0690ee.chunk.css.map": "/simplenewsapp/static/css/main.de0690ee.chunk.css.map",
+    "static/js/2.9d3f2a12.chunk.js.LICENSE.txt": "/simplenewsapp/static/js/2.9d3f2a12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ce003e.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9d3f2a12.chunk.js",
+    "static/css/main.de0690ee.chunk.css",
+    "static/js/main.fd2194f9.chunk.js"
+  ]
+}
